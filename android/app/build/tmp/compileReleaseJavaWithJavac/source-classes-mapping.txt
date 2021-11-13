@@ -1,0 +1,9 @@
+com/helloworld/MainApplication.java
+ com.helloworld.MainApplication
+ com.helloworld.MainApplication$1
+com/helloworld/MainActivity.java
+ com.helloworld.MainActivity
+com/helloworld/BuildConfig.java
+ com.helloworld.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
